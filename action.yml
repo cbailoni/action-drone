@@ -6,7 +6,7 @@ branding:
   color: 'gray-dark'
 inputs:
   version:
-    description: 'Version to install'
+    description: 'Version to install in Demo'
 runs:
   using: 'node12'
   main: 'lib/main.js'
